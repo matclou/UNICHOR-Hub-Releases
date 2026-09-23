@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-beta.3",
+  "version": "0.1.0-beta.4",
   "channel": "prerelease",
   "release_notes": "Erster Testrelease des UNICHOR Hub.",
   "platforms": {
     "windows": {
-      "url": "https://github.com/matclou/UNICHOR-Hub-Releases/releases/download/v0.1.0-beta.3/UNICHOR-Hub-Setup-0.1.0-beta.3.exe",
-      "sha256": "4489e692c927ea430ec29a88750038979e0049de91cb42cd7de02e26639aa826"
+      "url": "https://github.com/matclou/UNICHOR-Hub-Releases/releases/download/v0.1.0-beta.4/UNICHOR-Hub-Setup-0.1.0-beta.4.exe",
+      "sha256": "c0a1532c1b015b9e70af7a489a82515e98b3b63609e06d0b27102a3a1f498dd2"
     },
     "macos": {
-      "url": "https://github.com/matclou/UNICHOR-Hub-Releases/releases/download/v0.1.0-beta.3/UNICHOR-Hub-macOS.zip",
-      "sha256": "18fd3d62b80d0979562f8097cfcb0d174daef09a4608ef20ebf38db3b4495137"
+      "url": "https://github.com/matclou/UNICHOR-Hub-Releases/releases/download/v0.1.0-beta.4/UNICHOR-Hub-macOS.zip",
+      "sha256": "2dfd888d983f8308cb1b85d276cf61170b077b63172713b78b97f4829a76b676"
     }
   }
 }
